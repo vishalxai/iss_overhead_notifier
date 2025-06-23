@@ -2,7 +2,9 @@
 
 A Python app that notifies you via email when the International Space Station (ISS) is overhead 
 at your location during night hours.
+## Preview
 
+![ISS Notifier Screenshot](iss_notifier_screenshot.png)
 ## ✨ Features
 - Tracks ISS current position using [Open Notify ISS API](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
 - Checks local sunrise and sunset times using [Sunrise-Sunset API](https://sunrise-sunset.org/api)
